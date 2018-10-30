@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"log"
 
-	"github.com/grailbio/go-dicom"
-	"github.com/grailbio/go-dicom/dicomtag"
+	"github.com/iyinin/dicom"
+	"github.com/iyinin/dicom/dicomtag"
 )
 
 var (

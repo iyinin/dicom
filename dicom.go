@@ -7,8 +7,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/grailbio/go-dicom/dicomio"
-	"github.com/grailbio/go-dicom/dicomtag"
+	"github.com/iyinin/dicom/dicomio"
+	"github.com/iyinin/dicom/dicomtag"
 )
 
 // GoDICOMImplementationClassUIDPrefix defines the UID prefix for
